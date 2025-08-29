@@ -1,0 +1,407 @@
+{
+  "worldCup": [
+    {
+      "id": "wc-1975",
+      "name": "ICC Cricket World Cup",
+      "year": 1975,
+      "host": "England",
+      "champion": "West Indies",
+      "runnerUp": "Australia",
+      "playerOfSeries": null,
+      "final": {
+        "id": "wc-1975-final",
+        "title": "1975 World Cup Final: West Indies vs Australia",
+        "date": "21 June 1975",
+        "venue": "Lord's, London",
+        "winner": "West Indies",
+        "margin": "by 17 runs",
+        "manOfTheMatch": "Clive Lloyd",
+        "scoreboard": "West Indies 291/8 (60 overs)\\nAustralia 274/7 (60 overs)",
+        "summary": "Clive Lloyd scored a century to lead West Indies to victory."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-1979",
+      "name": "ICC Cricket World Cup",
+      "year": 1979,
+      "host": "England",
+      "champion": "West Indies",
+      "runnerUp": "England",
+      "playerOfSeries": null,
+      "final": {
+        "id": "wc-1979-final",
+        "title": "1979 World Cup Final: West Indies vs England",
+        "date": "23 June 1979",
+        "venue": "Lord's, London",
+        "winner": "West Indies",
+        "margin": "by 92 runs",
+        "manOfTheMatch": "Viv Richards",
+        "scoreboard": "West Indies 286/9 (60)\\nEngland 194 (51.5)",
+        "summary": "Viv Richards' aggressive batting helped West Indies win."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-1983",
+      "name": "ICC Cricket World Cup",
+      "year": 1983,
+      "host": "England",
+      "champion": "India",
+      "runnerUp": "West Indies",
+      "playerOfSeries": "Kapil Dev",
+      "final": {
+        "id": "wc-1983-final",
+        "title": "1983 World Cup Final: India vs West Indies",
+        "date": "25 June 1983",
+        "venue": "Lord's, London",
+        "winner": "India",
+        "margin": "by 43 runs",
+        "manOfTheMatch": "Mohinder Amarnath",
+        "scoreboard": "India 183 (55.5)\\nWest Indies 140 (52)",
+        "summary": "India upset West Indies to claim their first World Cup."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-1987",
+      "name": "ICC Cricket World Cup",
+      "year": 1987,
+      "host": "India & Pakistan",
+      "champion": "Australia",
+      "runnerUp": "England",
+      "playerOfSeries": "David Boon",
+      "final": {
+        "id": "wc-1987-final",
+        "title": "1987 World Cup Final: Australia vs England",
+        "date": "8 Nov 1987",
+        "venue": "Eden Gardens, Kolkata",
+        "winner": "Australia",
+        "margin": "by 7 runs",
+        "manOfTheMatch": "David Boon",
+        "scoreboard": "Australia 253/5 (50)\\nEngland 246/8 (50)",
+        "summary": "A close final: Australia's batting held up to win."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-1992",
+      "name": "ICC Cricket World Cup",
+      "year": 1992,
+      "host": "Australia & New Zealand",
+      "champion": "Pakistan",
+      "runnerUp": "England",
+      "playerOfSeries": "Wasim Akram",
+      "final": {
+        "id": "wc-1992-final",
+        "title": "1992 World Cup Final: Pakistan vs England",
+        "date": "25 Mar 1992",
+        "venue": "Melbourne Cricket Ground",
+        "winner": "Pakistan",
+        "margin": "by 22 runs",
+        "manOfTheMatch": "Wasim Akram",
+        "scoreboard": "Pakistan 249/6 (50)\\nEngland 227 (49.2)",
+        "summary": "Wasim Akram's swing bowling turned the match."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-1999",
+      "name": "ICC Cricket World Cup",
+      "year": 1999,
+      "host": "England",
+      "champion": "Australia",
+      "runnerUp": "Pakistan",
+      "playerOfSeries": "Ricky Ponting",
+      "final": {
+        "id": "wc-1999-final",
+        "title": "1999 World Cup Final: Australia vs Pakistan",
+        "date": "20 Jun 1999",
+        "venue": "Lord's, London",
+        "winner": "Australia",
+        "margin": "by 8 wickets",
+        "manOfTheMatch": "Ricky Ponting",
+        "scoreboard": "Australia 133/2 (20.1)\\nPakistan 132 (39.2)",
+        "summary": "Australia chased comfortably to win."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-2003",
+      "name": "ICC Cricket World Cup",
+      "year": 2003,
+      "host": "South Africa/ Zimbabwe/ Kenya",
+      "champion": "Australia",
+      "runnerUp": "India",
+      "playerOfSeries": "Ricky Ponting",
+      "final": {
+        "id": "wc-2003-final",
+        "title": "2003 World Cup Final: Australia vs India",
+        "date": "23 Mar 2003",
+        "venue": "Wanderers Stadium, Johannesburg",
+        "winner": "Australia",
+        "margin": "by 125 runs",
+        "manOfTheMatch": "Ricky Ponting",
+        "scoreboard": "Australia 359/2 (50)\\nIndia 234 (f/o)",
+        "summary": "Ponting's brilliant century set up a huge win."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-2007",
+      "name": "ICC Cricket World Cup",
+      "year": 2007,
+      "host": "West Indies",
+      "champion": "Australia",
+      "runnerUp": "Sri Lanka",
+      "playerOfSeries": "Ricky Ponting",
+      "final": {
+        "id": "wc-2007-final",
+        "title": "2007 World Cup Final: Australia vs Sri Lanka",
+        "date": "28 Apr 2007",
+        "venue": "Kensington Oval, Bridgetown",
+        "winner": "Australia",
+        "margin": "by 53 runs",
+        "manOfTheMatch": "Adam Gilchrist",
+        "scoreboard": "Australia 281/4 (38) D/L\\nSri Lanka 215 (36.2)",
+        "summary": "Australia completed a hat-trick of World Cups."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-2011",
+      "name": "ICC Cricket World Cup",
+      "year": 2011,
+      "host": "India/Sri Lanka/Bangladesh",
+      "champion": "India",
+      "runnerUp": "Sri Lanka",
+      "playerOfSeries": "Yuvraj Singh",
+      "final": {
+        "id": "wc-2011-final",
+        "title": "2011 World Cup Final: India vs Sri Lanka",
+        "date": "2 Apr 2011",
+        "venue": "Wankhede Stadium, Mumbai",
+        "winner": "India",
+        "margin": "by 6 wickets",
+        "manOfTheMatch": "MS Dhoni",
+        "scoreboard": "Sri Lanka 274/6 (50)\\nIndia 277/4 (48.2)",
+        "summary": "Dhoni's winning innings and Gambhir's 97 helped India."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-2015",
+      "name": "ICC Cricket World Cup",
+      "year": 2015,
+      "host": "Australia & New Zealand",
+      "champion": "Australia",
+      "runnerUp": "New Zealand",
+      "playerOfSeries": "Mitchell Starc",
+      "final": {
+        "id": "wc-2015-final",
+        "title": "2015 World Cup Final: Australia vs New Zealand",
+        "date": "29 Mar 2015",
+        "venue": "Melbourne Cricket Ground",
+        "winner": "Australia",
+        "margin": "by 7 wickets",
+        "manOfTheMatch": "James Faulkner",
+        "scoreboard": "Australia 186/3 (33.1) D/L\\nNew Zealand 183 (43.5)",
+        "summary": "Australia chased a revised target to reclaim the title."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-2019",
+      "name": "ICC Cricket World Cup",
+      "year": 2019,
+      "host": "England & Wales",
+      "champion": "England",
+      "runnerUp": "New Zealand",
+      "playerOfSeries": "Kane Williamson",
+      "final": {
+        "id": "wc-2019-final",
+        "title": "2019 World Cup Final: England vs New Zealand",
+        "date": "14 July 2019",
+        "venue": "Lord's, London",
+        "winner": "England",
+        "margin": "England won on boundary count after Super Over tie",
+        "manOfTheMatch": "Ben Stokes",
+        "scoreboard": "England 241/10 (50)\\nNew Zealand 241/10 (50)\\nSuper Over tied",
+        "summary": "A dramatic final resolved on boundary count rule."
+      },
+      "matches": []
+    },
+    {
+      "id": "wc-2023",
+      "name": "ICC Cricket World Cup",
+      "year": 2023,
+      "host": "India",
+      "champion": "Australia",
+      "runnerUp": "India",
+      "playerOfSeries": "Virat Kohli",
+      "final": {
+        "id": "wc-2023-final",
+        "title": "2023 World Cup Final: India vs Australia",
+        "date": "19 Nov 2023",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "winner": "Australia",
+        "margin": "by 6 wickets",
+        "manOfTheMatch": "Travis Head",
+        "scoreboard": "India 241/10 (50)\\nAustralia 242/4 (50)",
+        "summary": "Australia chased 241 with Travis Head's 137."
+      },
+      "matches": []
+    }
+  ],
+  "championsTrophy": [
+    {
+      "id": "ct-1998",
+      "name": "ICC Champions Trophy",
+      "year": 1998,
+      "host": "Bangladesh",
+      "champion": "South Africa",
+      "runnerUp": "West Indies",
+      "playerOfSeries": "Jacques Kallis",
+      "final": {
+        "id": "ct-1998-final",
+        "title": "1998 Champions Trophy Final",
+        "date": "1 Nov 1998",
+        "venue": "Bangabandhu, Dhaka",
+        "winner": "South Africa",
+        "margin": "by 4 wickets",
+        "manOfTheMatch": "Jacques Kallis",
+        "scoreboard": "South Africa 145/6\\nWest Indies 144",
+        "summary": "South Africa clinched the inaugural knockout title."
+      },
+      "matches": []
+    },
+    {
+      "id": "ct-2002",
+      "name": "ICC Champions Trophy",
+      "year": 2002,
+      "host": "Sri Lanka",
+      "champion": "Shared",
+      "runnerUp": "Shared",
+      "playerOfSeries": "\u2014",
+      "final": {
+        "id": "ct-2002-final",
+        "title": "2002 Champions Trophy Final",
+        "date": "29 Sep 2002",
+        "venue": "Colombo",
+        "winner": "Shared",
+        "margin": "No result (rain)",
+        "manOfTheMatch": "\u2014",
+        "scoreboard": "Match abandoned due to rain",
+        "summary": "Finals abandoned; trophy shared."
+      },
+      "matches": []
+    },
+    {
+      "id": "ct-2017",
+      "name": "ICC Champions Trophy",
+      "year": 2017,
+      "host": "England & Wales",
+      "champion": "Pakistan",
+      "runnerUp": "India",
+      "playerOfSeries": "Hasan Ali",
+      "final": {
+        "id": "ct-2017-final",
+        "title": "2017 Champions Trophy Final",
+        "date": "18 Jun 2017",
+        "venue": "The Oval, London",
+        "winner": "Pakistan",
+        "margin": "by 180 runs",
+        "manOfTheMatch": "Fakhar Zaman",
+        "scoreboard": "Pakistan 338/4\\nIndia 158",
+        "summary": "Pakistan dominated in the final."
+      },
+      "matches": []
+    }
+  ],
+  "t20WorldCup": [
+    {
+      "id": "t20-2007",
+      "name": "ICC Men's T20 World Cup",
+      "year": 2007,
+      "host": "South Africa",
+      "champion": "India",
+      "runnerUp": "Pakistan",
+      "playerOfSeries": "Shahid Afridi",
+      "final": {
+        "id": "t20-2007-final",
+        "title": "2007 T20 Final",
+        "date": "24 Sep 2007",
+        "venue": "Johannesburg",
+        "winner": "India",
+        "margin": "by 5 runs",
+        "manOfTheMatch": "Irfan Pathan",
+        "scoreboard": "India 157/5\\nPakistan 152/9",
+        "summary": "India defended 157 to win inaugural T20 WC."
+      },
+      "matches": []
+    },
+    {
+      "id": "t20-2009",
+      "name": "ICC Men's T20 World Cup",
+      "year": 2009,
+      "host": "England",
+      "champion": "Pakistan",
+      "runnerUp": "Sri Lanka",
+      "playerOfSeries": "Tillakaratne Dilshan",
+      "final": {
+        "id": "t20-2009-final",
+        "title": "2009 T20 Final",
+        "date": "21 Jun 2009",
+        "venue": "Lord's, London",
+        "winner": "Pakistan",
+        "margin": "by 8 wickets",
+        "manOfTheMatch": "Younis Khan",
+        "scoreboard": "Pakistan 138/1\\nSri Lanka 138/6 (D/L)",
+        "summary": "Pakistan completed a strong chase."
+      },
+      "matches": []
+    },
+    {
+      "id": "t20-2016",
+      "name": "ICC Men's T20 World Cup",
+      "year": 2016,
+      "host": "India",
+      "champion": "West Indies",
+      "runnerUp": "England",
+      "playerOfSeries": "Virat Kohli",
+      "final": {
+        "id": "t20-2016-final",
+        "title": "2016 T20 Final",
+        "date": "3 Apr 2016",
+        "venue": "Eden Gardens, Kolkata",
+        "winner": "West Indies",
+        "margin": "by 4 wickets",
+        "manOfTheMatch": "Marlon Samuels",
+        "scoreboard": "West Indies 137/6\\nEngland 155/9 (D/L adjusted)",
+        "summary": "Brathwaite and Samuels starred in a dramatic final."
+      },
+      "matches": []
+    },
+    {
+      "id": "t20-2024",
+      "name": "ICC Men's T20 World Cup",
+      "year": 2024,
+      "host": "USA & West Indies",
+      "champion": "India",
+      "runnerUp": "South Africa",
+      "playerOfSeries": "Jasprit Bumrah",
+      "final": {
+        "id": "t20-2024-final",
+        "title": "2024 T20 Final",
+        "date": "29 Jun 2024",
+        "venue": "Barbados",
+        "winner": "India",
+        "margin": "by 7 runs",
+        "manOfTheMatch": "Virat Kohli",
+        "scoreboard": "India 165/8\\nSouth Africa 158/9",
+        "summary": "India edged SA in a tense final."
+      },
+      "matches": []
+    }
+  ]
+}

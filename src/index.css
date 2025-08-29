@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { --card: #ffffff; }
+.shadow-smooth { @apply shadow-lg shadow-black/5; }
+.card { @apply bg-white rounded-2xl p-4 md:p-6 shadow-smooth; }
+.badge { @apply inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold bg-slate-100; }
+.link { @apply text-iccBlue hover:underline; }
+.header { @apply bg-white/90 border-b sticky top-0 z-40 backdrop-blur; }
